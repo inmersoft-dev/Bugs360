@@ -23,6 +23,6 @@
 ### 🐜Are you looking for extra hands? Find me here🐜:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/company/inmersoft/)
-[![Twitter](https://img.shields.io/badge/Twitter-#1DA1F2?style=flat&logo=dev.to&logoColor=white)](https://twitter.com/Inmersoft_)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=dev.to&logoColor=white)](https://twitter.com/Inmersoft_)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/inmersoftstudio)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/inmersoft/)
