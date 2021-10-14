@@ -20,7 +20,7 @@
 
 <br>
  
-### 🐜Are you looking for extra hands? Find me here🐜:
+### 🐜Are you looking for extra hands? Look for Inmersoft.net🐜:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/company/inmersoft/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=dev.to&logoColor=white)](https://twitter.com/Inmersoft_)
